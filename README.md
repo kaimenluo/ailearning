@@ -12,3 +12,6 @@ https://zhuanlan.zhihu.com/p/87881768
 
 Torch_Bert代码目录的博客地址
 https://zhuanlan.zhihu.com/p/88798065
+
+ner代码目录的博客地址
+https://zhuanlan.zhihu.com/p/91194691
