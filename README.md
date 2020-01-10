@@ -15,3 +15,6 @@ https://zhuanlan.zhihu.com/p/88798065
 
 ner代码目录的博客地址
 https://zhuanlan.zhihu.com/p/91194691
+
+hmm_pos_tagging代码目录的博客地址
+https://zhuanlan.zhihu.com/p/102130026
